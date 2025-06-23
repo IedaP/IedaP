@@ -98,6 +98,7 @@ Se quiser saber mais sobre minha trajetória, é só dar uma passadinha no meu *
     src="https://github-readme-stats.vercel.app/api?username=IedaP&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+
 <img 
       align="left" 
       alt="GitHub Stats" 
