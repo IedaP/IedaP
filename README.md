@@ -91,17 +91,18 @@ Se quiser saber mais sobre minha trajetória, é só dar uma passadinha no meu *
 
 <p>
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=IedaP&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
 <img 
-      align="center" 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IedaP&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IedaP&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
