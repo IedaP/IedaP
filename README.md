@@ -84,8 +84,23 @@ Se quiser saber mais sobre minha trajetória, é só dar uma passadinha no meu *
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
-<br/>
-<br/>
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532"
+    />
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg"
+    />
+<br clear="both"/>
 
 ### 📊 Estatísticas
 
@@ -97,12 +112,11 @@ Se quiser saber mais sobre minha trajetória, é só dar uma passadinha no meu *
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=IedaP&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IedaP&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="100" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IedaP&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
