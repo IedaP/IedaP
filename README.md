@@ -2,7 +2,7 @@
 
 **`Desenvolvedora de Sistemas | Analista de Dados | Engenheira Química`**
 
-Olá! Sou a Ieda Panaggio, tenho 27 anos e moro em **Cordeirópolis**, interior de São Paulo. Sou formada em **Engenharia Química pela UNESP** e atualmente estou em transição de carreira para a área de **Tecnologia**.
+Olá! Sou a Ieda Panaggio, tenho 28 anos e moro em **Cordeirópolis**, interior de São Paulo. Sou formada em **Engenharia Química pela UNESP** e atualmente estou em transição de carreira para a área de **Tecnologia**.
 
 Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas** pelo Centro Paula Souza, onde estou aprimorando minhas habilidades em programação, desenvolvimento web e análise de dados.
 
