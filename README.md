@@ -100,6 +100,15 @@ Se quiser saber mais sobre minha trajetória, é só dar uma passadinha no meu *
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg"
     />
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+    />
 <br clear="both"/>
 
 ### 📊 Estatísticas
